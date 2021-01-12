@@ -99,9 +99,9 @@ install: -n /usr/local/bin
 
 ## Repo
 
-**Link to Repo:** https://gitlab.com/instridehq/tokio/instride-automation
+**Link to Repo:** https://github.com/smurciac/Appium_Ruby_Vivino
 
-1. `git@gitlab.com:instridehq/tokio/instride-automation.git`
+1. `git@github.com:smurciac/Appium_Ruby_Vivino.git`
 
 ## Install Gemfile
 
