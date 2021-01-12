@@ -79,6 +79,7 @@ Android Device -> Samsung Galaxy S10
 Android Version -> 10.0
 Android API -> 29
 ```
+7. ::NOTE:: Remember to install OpenGApps from Genymotion to be able to run Vivino APK
 
 **Install Vivino APK:**
 
