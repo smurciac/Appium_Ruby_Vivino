@@ -1,0 +1,6 @@
+e2e: --tags @e2e --format html --out report.html --format pretty
+home: --tags @Home --format html --out report.html --format pretty
+getStarted: --tags @GetStarted --format html --out report.html --format pretty
+seeHowItWork: --tags @SeeHowItWork --format html --out report.html --format pretty
+tryUsOut: --tags @TryUsOut --format html --out report.html --format pretty
+iHaveAnAccount: --tags @IHaveAnAccount --format html --out report.html --format pretty
