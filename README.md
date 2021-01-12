@@ -154,8 +154,6 @@ Defined profiles in cucumber.yml:
 │   │   │   └── utils.rb
 │   │   └── when_steps.rb
 │   ├── support
-│   │   ├── 2021-01-12-_11.54.01.png
-│   │   ├── 2021-01-12-_11.56.30.png
 │   │   ├── app-world-beta.apk
 │   │   ├── env.rb
 │   │   └── hooks.rb
